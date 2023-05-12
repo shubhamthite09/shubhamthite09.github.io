@@ -21,6 +21,13 @@
         display: flex;
     }
     .home-left{
+        width: 98%;
+        font-size: 17px;
+        padding-left: 7%;
+        padding-top: 4%;
+    }
+    .home-right{
+        width: 98%;
         font-size: 12px;
         padding-left: 7%;
         padding-top: 4%;
@@ -45,6 +52,14 @@
         display: flex;
         flex-direction: column;
         justify-content: center;
+    }
+    .home-body{
+        display: flex;
+        flex-direction: column;
+    }
+    .contact-left form{
+        width: 98%;
+        margin: auto;
     }
     .skills-body{
         display:grid;
@@ -94,6 +109,10 @@
     #nav-cont{
         width:90%;
     }
+    .home-body{
+        display: flex;
+        flex-direction: column;
+    }
     #navbar-menu{
         border:none;
         border-radius: 5px;
@@ -103,7 +122,7 @@
         width:50%;
         text-align: center;
         display:none;
-        background-color: black;
+        background-color: white;
     }
     #nav-name{
         font-size: 17px;
@@ -117,7 +136,7 @@
         padding:15px 0;
     }
     .home-left{
-        width:40%;
+        width:90%;
         font-size: 8px;
         padding-left: 7%;
         padding-top: 4%;
@@ -128,7 +147,7 @@
         padding:3px 8px;
     }
     .home-right{
-        width:60%;
+        width:90%;
     }
     .about-body{
         display: block;
@@ -188,6 +207,10 @@
         width:90%;
         margin: 60px auto;
         display: block;   
+    }
+    .contact-left form{
+        width: 98%;
+        margin: auto;
     }
     .contact-text{
         width: 100%;
