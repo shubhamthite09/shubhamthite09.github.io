@@ -28,7 +28,7 @@ button:active {
 
 /* ------------------------------ Navbar section starts here------------------------ */
 #nav-menu {
-    background-color: #FBE9E7;
+    background-color: #BBDEFB;
     height: 70px;
     position: fixed;
     width: 100%;
@@ -96,14 +96,14 @@ button:active {
 }
 
 #resume-link-1 {
-    color: #FBE9E7;
+    color: #BBDEFB;
 }
 /* ------------------------------ Navbar section ends here------------------------ */
 
 /* ------------------------------ Home section starts here------------------------ */
 #home {
-    background-color: #FBE9E7;
-    padding: 200px 0;
+    background-color: #BBDEFB;
+    padding: 100px 0;
 }
 
 .home-body {
@@ -146,14 +146,15 @@ button:active {
 }
 
 #resume-link-2 {
-    color: #FBE9E7;
+    color: #BBDEFB;
 }
 
 /* ------------------------------ Home section ends here------------------------ */
 
 /* ------------------------------ About section starts here------------------------ */#about {
-    background-color: #FBE9E7;
-    padding: 95px 0;
+
+    background-color: #BBDEFB;
+    padding: 70px 0;
 }
 
 #about>h1 {
@@ -212,8 +213,8 @@ button:active {
 /* ------------------------------ About section ends here------------------------ */
 
 /* ------------------------------ Skills section starts here------------------------ */#skills {
-    background-color: #FBE9E7;
-    padding: 95px 0;
+    background-color: #BBDEFB;
+    padding: 75px 0;
     color: black;
 }
 
@@ -254,9 +255,9 @@ button:active {
 /* ----------------------------- Projects section starts here---------------------- */
 
 #projects {
-    background-color: #FBE9E7;
+    background-color: #BBDEFB;
     color: black;
-    padding: 95px 0;
+    padding: 75px 0;
 }
 
 #projects>h1 {
@@ -306,7 +307,7 @@ button:active {
     width: 49%;
     border: 3px solid black;
     border-radius: 10px;
-    background-color: #FBE9E7;
+    background-color: #BBDEFB;
     padding: 5px;
     color: black;
     text-align: center;
@@ -371,8 +372,8 @@ button:active {
 
 /* ----------------------------- Contact section starts here---------------------- */
 #contact {
-    background-color: #FBE9E7;
-    padding: 95px 0;
+    background-color: #BBDEFB;
+    padding: 75px 0;
     color: black;
 }
 
@@ -456,7 +457,7 @@ form .btn2 {
     border-radius: 5px;
     border-style: none;
     background-color: black;
-    color: #FBE9E7;
+    color: #BBDEFB;
     transition: transform .2s;
     
 
@@ -469,8 +470,8 @@ form .btn2:hover {
 /* ----------------------------- Contact section ends here---------------------- */
 
 /* ----------------------------- GitHib section starts here---------------------- */#github {
-    background-color: #FBE9E7;
-    padding: 95px 0;
+    background-color: #BBDEFB;
+    padding: 10px 0;
     color: black;
 }
 
@@ -505,13 +506,13 @@ form .btn2:hover {
     margin: auto;
     background-color: white;
     padding: 20px;
-    color: #FBE9E7;
+    color: #BBDEFB;
     border-radius: 10px;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
 .calendar span {
-    color: #FBE9E7;
+    color: #BBDEFB;
 }
 /* ----------------------------- GitHub section ends here---------------------- */
 
@@ -519,7 +520,7 @@ form .btn2:hover {
     width: 100%;
     padding: 10px 0;
     text-align: center;
-    background-color: #FBE9E7;
+    background-color: #BBDEFB;
     color: black;
     font-weight: 700;
 }
