@@ -113,7 +113,7 @@ button:active {
 }
 
 .home-left {
-    width: 50%;
+    width: 70%;
     color: black;
     padding-left: 10%;
     padding-top: 7%;
@@ -181,22 +181,22 @@ button:active {
 }
 
 .about-left {
-    width: 25%;
+    width: 10%;
     display: flex;
     align-items: center;
 }
 
 .img-div {
-    width: 100%;
+    width: 10%;
 }
 
 .img-div>img {
-    width: 100%;
+    width: 10%;
     border-radius: 10px;
 }
 
 .about-details {
-    width: 70%;
+    width: 100%;
     display: flex;
     flex-direction: column;
     justify-content: center;
