@@ -346,18 +346,18 @@ button:active {
 
 .project-github-link {
     font-size: 45px;
-    color: white;
+    color: black;
 }
 
 .project-deployed-link {
     font-size: 45px;
-    color: white;
+    color: black;
 }
 
 .project-deployed-link>button {
-    background-color: white;
+    background-color: black;
     border: none;
-    color: white;
+    color: black;
     padding: 5px 15px;
     border-radius: 5px;
     font-size: 17px;
@@ -431,7 +431,7 @@ form textarea {
     background-color: white;
     padding: 10px;
     margin: 10px 0;
-    color: #fff;
+    color: black;
     font-size: 18px;
     border-radius: 6px;
     
@@ -515,7 +515,7 @@ form .btn2:hover {
     text-align: center;
     background-color: #BBDEFB;
     color: black;
-    font-weight: 700;
+    font-weight: 70;
 }
 
 ::-webkit-scrollbar-track {
