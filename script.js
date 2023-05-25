@@ -8,7 +8,7 @@ hamburger.addEventListener("click", (e)=>{
     }else{
         navbar_menu.style.display="none";
     }
-})
+})  
 
 //Function for Resume to open on the next tab
 function resume(){
