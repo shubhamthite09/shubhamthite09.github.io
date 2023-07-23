@@ -12,7 +12,7 @@ hamburger.addEventListener("click", (e)=>{
 
 //Function for Resume to open on the next tab
 function resume(){
-    window.open("./shubham-thite-resume.pdf","_blank")
+    window.open("https://drive.google.com/file/d/1Py7hJWWjmkRyat8L39qMKNzVupVjI6JT/view?usp=sharing","_blank")
   }
 
 // Third-party library to disply GitHub Calender
