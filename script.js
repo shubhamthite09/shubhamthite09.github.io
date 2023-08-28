@@ -16,8 +16,14 @@ function resume(){
   }
 
 // Third-party library to disply GitHub Calender
-GitHubCalendar(".calendar", "shubhamthite09", {
-    responsive: true,
-    global_stats: true,
-    tooltips: true
-  });
+// GitHubCalendar(".calendar", "shubhamthite09", {
+//     responsive: true,
+//     global_stats: true,
+//     tooltips: true
+// });
+// GitHubCalendar(".calendar","shubhamthite09", {
+//     proxy (username) {
+//       return fetch(`https://your-proxy.com/github?user=${username}`)
+//     }
+//  }).then(r => r)
+GitHubCalendar(".calendar", "shubhamthite09");

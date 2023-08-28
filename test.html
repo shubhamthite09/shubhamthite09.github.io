@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css">
+</head>
+<body>
+  <!-- Container for GitHub Calendar -->
+  <div class="calendar">
+    <!-- Calendar content will be displayed here -->
+  </div>
+
+  <!-- JavaScript code to fetch and render GitHub calendar -->
+  <script>
+    // Replace 'yourusername' with your actual GitHub username
+    fetch('https://api.github.com/users/shubhamthite09/events')
+      .then(response => response.json())
+      .then(data => {
+        // Code to render the GitHub calendar using the fetched data
+        // This part depends on the library you're using
+        console.log(data);
+      })
+      .catch(error => console.error('Error fetching GitHub data:', error));
+  </script>
+</body>
+</html>
